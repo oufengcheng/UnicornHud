@@ -1,0 +1,1 @@
+import React from 'react'; const InvestmentPage = () => { return <div className="min-h-screen py-8 px-4"><div className="max-w-7xl mx-auto text-center"><h1 className="text-3xl font-bold mb-4">InvestmentPage</h1><p className="text-gray-600">功能开发中...</p></div></div>; }; export default InvestmentPage;
